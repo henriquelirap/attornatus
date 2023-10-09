@@ -1,0 +1,1 @@
+insert into endereco values(true, 9999999, 1010, 9999999, '85901160', 'Toledo', 'Rua General Costa')
